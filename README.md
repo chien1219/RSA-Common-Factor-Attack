@@ -1,3 +1,4 @@
 # RSA-Common-Factor-Attack
 
-### python cfa.py
+### Run program
+`python cfa.py`
